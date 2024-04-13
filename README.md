@@ -13,7 +13,7 @@ We need to create classes for primary and high schools. Because these classes sh
 
 ### Primary
 
-Includes everything in the School class, plus one additional property
+- Includes everything in the School class, plus one additional property
 - Properties: pickupPolicy (string)
 
 ### Middle
